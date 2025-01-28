@@ -1,0 +1,6 @@
+third_party/
+build/
+provider_build/
+certs/
+.vscode/
+data/
